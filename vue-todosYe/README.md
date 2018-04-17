@@ -1,30 +1,18 @@
 # yejunfeng
 
 > 2.0
+# 仿vue-todos
+[预览地址](http://yangyi1024.com/todo)(响应式设计，pc端，移动端)
 
-## Build Setup
 
+
+
+### 运行
 ``` bash
-# install dependencies
+# 更新依赖包
 npm install
-
-# serve with hot reload at localhost:8080
+# 本地运行 at localhost:8080
 npm run dev
-
-# build for production with minification
+# 打包
 npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
